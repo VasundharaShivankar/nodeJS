@@ -1,0 +1,15 @@
+.navbar{
+    padding:20px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+    font-size:25px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.navbar-content{
+    text-decoration: none;
+    margin:40px;
+    color:black;
+}

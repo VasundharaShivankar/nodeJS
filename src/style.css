@@ -1,0 +1,9 @@
+.component-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin:50px 140px;
+    background-color: blanchedalmond;
+    border-radius: 6px;
+    font-size: 20px;
+}
